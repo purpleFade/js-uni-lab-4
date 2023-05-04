@@ -1,0 +1,13 @@
+.wraper {
+    margin: 0 auto;
+    padding: 50px;
+    height: 400px;
+    width: 500px;
+    border-radius: 30px;
+    background-color: rgb(188, 153, 203);
+    text-align: center;
+}
+
+ span#identified {
+    background-color: aqua;
+ }
